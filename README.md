@@ -1,5 +1,3 @@
-Self-BLEU
-
 ## Description
 
 SacreBLEUを利用して、テキストファイル中の文の平均Self-BLEUスコアを求めます。
@@ -26,8 +24,6 @@ The process of the program is as follows
 
 ・Python 3.x
 
-・sacrebleu
+・sacrebleu (You can get by 'pip3 install sacrebleu')
 
 https://github.com/mjpost/sacrebleu
-
-(You can get by 'pip3 install sacrebleu')
