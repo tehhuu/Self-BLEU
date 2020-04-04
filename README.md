@@ -12,7 +12,8 @@ SacreBLEUを利用して、テキストファイル中の文の平均Self-BLEU�
 1. 取り出す文を変えて，選ばれたことのない文がなくなるまで1を繰り返す。
 1. 手順1，2で求まった値の平均を取る．
 
-Calculating the average Self-BLEU Score in a text file by using 'SacreBLEU'.
+<br />
+Calculating the average Self-BLEU Score in a text file by using SacreBLEU.
 
 You can use this to evaluate diversity of generated sentences from a model.
 
