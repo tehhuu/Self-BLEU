@@ -1,6 +1,6 @@
 ## Description
 
-SacreBLEUを利用して、テキストファイル中の文の平均Self-BLEUスコアを求めます。
+SacreBLEUを利用して、日本語テキストファイル中の文の平均Self-BLEUスコアを求めます。
 
 モデルの生成文の多様性の評価などに利用できます。
 
@@ -11,7 +11,7 @@ SacreBLEUを利用して、テキストファイル中の文の平均Self-BLEU�
 1. 手順1，2で求まった値の平均を取る．
 
 <br />
-Calculating the average Self-BLEU Score in a text file by using SacreBLEU.
+Calculating the average Self-BLEU Score in a text file in Japanese by using SacreBLEU.
 
 You can use this to evaluate diversity of generated sentences from a model.
 
