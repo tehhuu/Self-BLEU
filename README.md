@@ -11,7 +11,7 @@ SacreBLEUを利用して、日本語テキストファイル中の文の平均Se
 1. 手順1，2で求まった値の平均を取る．
 
 <br />
-Calculating the average Self-BLEU Score in a text file in Japanese by using SacreBLEU.
+Calculating the average Self-BLEU Score of sentences in a Japanese text file by using SacreBLEU.
 
 You can use this to evaluate diversity of generated sentences from a model.
 
